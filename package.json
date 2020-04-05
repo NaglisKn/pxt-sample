@@ -36,6 +36,7 @@
     "@types/node": "8.0.53"
   },
   "dependencies": {
+    "pxt": "^0.5.1",
     "pxt-core": "^5.37.14"
   }
 }
